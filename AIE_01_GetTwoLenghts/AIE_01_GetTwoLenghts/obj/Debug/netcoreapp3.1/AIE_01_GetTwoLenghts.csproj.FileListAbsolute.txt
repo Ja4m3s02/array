@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\bin\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.exe
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\bin\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.deps.json
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\bin\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.runtimeconfig.json
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\bin\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\bin\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.dll
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\bin\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.pdb
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\obj\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\obj\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\obj\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.AssemblyInfo.cs
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\obj\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.dll
+C:\Users\s210209\Desktop\aie\array\AIE_01_GetTwoLenghts\AIE_01_GetTwoLenghts\obj\Debug\netcoreapp3.1\AIE_01_GetTwoLenghts.pdb

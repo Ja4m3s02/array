@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210209\\Desktop\\aie\\array\\AIE_02_NeedleInTheHaystack\\AIE_02_NeedleInTheHaystack.csproj",
-      "projectName": "AIE_02_NeedleInTheHaystack",
-      "projectPath": "C:\\Users\\s210209\\Desktop\\aie\\array\\AIE_02_NeedleInTheHaystack\\AIE_02_NeedleInTheHaystack.csproj",
+      "projectUniqueName": "C:\\Users\\s210209\\Desktop\\aie\\array\\AIE_03_CalculateAverage\\AIE_03_CalculateAverage.csproj",
+      "projectName": "AIE_03_CalculateAverage",
+      "projectPath": "C:\\Users\\s210209\\Desktop\\aie\\array\\AIE_03_CalculateAverage\\AIE_03_CalculateAverage.csproj",
       "packagesPath": "C:\\Users\\s210209\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210209\\Desktop\\aie\\array\\AIE_02_NeedleInTheHaystack\\obj\\",
+      "outputPath": "C:\\Users\\s210209\\Desktop\\aie\\array\\AIE_03_CalculateAverage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210209\\AppData\\Roaming\\NuGet\\NuGet.Config",

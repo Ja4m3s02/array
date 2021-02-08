@@ -4,10 +4,18 @@ namespace AIE_03_CalculateAverage
 {
     class Program
     {
-        static int =  CalculateAverage(int a);
+        static float CalculateAverage(int[] numbers)
+            {
 
+            int total = 0;
+                for(int i=0; i<numbers.Length; i++)
+                {
+                    total += numbers[i];
+                }
+                
+                return total / numbers.Length;
+            }
         
-        // TODO: Write the CalculateAverage function here
 
         static void Main(string[] args)
         {

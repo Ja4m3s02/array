@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\obj\Debug\netcoreapp3.1\AIE_03_CalculateAverage.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\obj\Debug\netcoreapp3.1\AIE_03_CalculateAverage.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\obj\Debug\netcoreapp3.1\AIE_03_CalculateAverage.AssemblyInfo.cs
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\bin\Debug\netcoreapp3.1\AIE_03_CalculateAverage.exe
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\bin\Debug\netcoreapp3.1\AIE_03_CalculateAverage.deps.json
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\bin\Debug\netcoreapp3.1\AIE_03_CalculateAverage.runtimeconfig.json
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\bin\Debug\netcoreapp3.1\AIE_03_CalculateAverage.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\bin\Debug\netcoreapp3.1\AIE_03_CalculateAverage.dll
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\bin\Debug\netcoreapp3.1\AIE_03_CalculateAverage.pdb
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\obj\Debug\netcoreapp3.1\AIE_03_CalculateAverage.dll
+C:\Users\s210209\Desktop\aie\array\AIE_03_CalculateAverage\obj\Debug\netcoreapp3.1\AIE_03_CalculateAverage.pdb

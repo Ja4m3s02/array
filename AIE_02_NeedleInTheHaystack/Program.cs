@@ -6,6 +6,9 @@ namespace AIE_02_NeedleInTheHaystack
     {
         static int[] FindNeedle(int 1);
 
+        int[] myInts = int 1;
+        int 1 = string (needle);
+
 
 
         static void Main(string[] args)

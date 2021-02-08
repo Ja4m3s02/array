@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\bin\Debug\netcoreapp3.1\AIE_04_ReverseArray.exe
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\bin\Debug\netcoreapp3.1\AIE_04_ReverseArray.deps.json
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\bin\Debug\netcoreapp3.1\AIE_04_ReverseArray.runtimeconfig.json
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\bin\Debug\netcoreapp3.1\AIE_04_ReverseArray.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\bin\Debug\netcoreapp3.1\AIE_04_ReverseArray.dll
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\bin\Debug\netcoreapp3.1\AIE_04_ReverseArray.pdb
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\obj\Debug\netcoreapp3.1\AIE_04_ReverseArray.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\obj\Debug\netcoreapp3.1\AIE_04_ReverseArray.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\obj\Debug\netcoreapp3.1\AIE_04_ReverseArray.AssemblyInfo.cs
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\obj\Debug\netcoreapp3.1\AIE_04_ReverseArray.dll
+C:\Users\s210209\Desktop\aie\array\AIE_04_ReverseArray\obj\Debug\netcoreapp3.1\AIE_04_ReverseArray.pdb

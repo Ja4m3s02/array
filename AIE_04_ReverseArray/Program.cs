@@ -4,7 +4,13 @@ namespace AIE_04_ReverseArray
 {
     class Program
     {
-        static float ReverseArray(float[] reverseArray);
+        static int[] ReverseArray(int[] reverseArray)
+        {
+            return null;
+        }
+
+
+
 
 
         // TODO: Write the ReverseArray function here

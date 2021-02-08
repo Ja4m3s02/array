@@ -4,7 +4,7 @@ namespace AIE_02_NeedleInTheHaystack
 {
     class Program
     {
-        static string[] FindNeedle(str1);
+        static int[] FindNeedle(int 1);
 
 
 

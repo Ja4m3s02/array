@@ -1,0 +1,3 @@
+C:\Users\s210209\Desktop\aie\array\AIE_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_02_NeedleInTheHaystack.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\array\AIE_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_02_NeedleInTheHaystack.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\array\AIE_02_NeedleInTheHaystack\obj\Debug\netcoreapp3.1\AIE_02_NeedleInTheHaystack.AssemblyInfo.cs

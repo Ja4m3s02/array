@@ -4,6 +4,9 @@ namespace AIE_04_ReverseArray
 {
     class Program
     {
+        static float ReverseArray(float[] reverseArray);
+
+
         // TODO: Write the ReverseArray function here
 
         static void Main(string[] args)

@@ -10,11 +10,6 @@ namespace AIE_04_ReverseArray
         }
 
 
-
-
-
-        // TODO: Write the ReverseArray function here
-
         static void Main(string[] args)
         {
             var numbers = new int[] { 10, 3, 6, 6, 4, 8, 1, 7 };

@@ -4,11 +4,17 @@ namespace AIE_04_ReverseArray
 {
     class Program
     {
-        static int[] ReverseArray(int[] reverseArray)
+        static int[] ReverseArray(int[] numbers)
         {
-            return null;
-        }
+            int[] rev = new int[numbers.Length];
 
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                rev[numbers.Length - 1 - i] = numbers[i];
+            }
+
+            return rev;
+        }
 
         static void Main(string[] args)
         {
